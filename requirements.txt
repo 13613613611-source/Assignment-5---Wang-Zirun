@@ -1,0 +1,28 @@
+# ============================================================
+# Dependencies -- Research Paper Pipeline Dashboard
+# Mini-Assignment 5: Dashboard Development
+# ============================================================
+
+# Dashboard framework
+streamlit>=1.40.0
+
+# Environment variable loading (API Key management)
+python-dotenv>=1.0.0
+
+# CrewAI core framework (Agent / Crew / Task)
+crewai>=0.80.0
+
+# HTTP requests (for API clients)
+requests>=2.31.0
+
+# Data processing
+pandas>=2.1.0
+
+# Word cloud generation
+wordcloud>=1.9.0
+
+# Visualization
+matplotlib>=3.8.0
+
+# Network graphs
+networkx>=3.2.0
